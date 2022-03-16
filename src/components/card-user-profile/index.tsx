@@ -1,6 +1,6 @@
 import { ReactElement } from 'react';
 import { UserProfile } from '../../services/github/user/show/types';
-import { formatDate } from '../../utils/format-date';
+import { formatDate } from '../../utils';
 
 import * as Styled from './styles';
 
